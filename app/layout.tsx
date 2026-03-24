@@ -1,7 +1,6 @@
 import { Bodoni_Moda, Manrope, Dancing_Script } from "next/font/google";
 
 import "./globals.css";
-import { ThemeProvider } from "@/components/theme-provider";
 import { cn } from "@/lib/utils";
 import { NavBar } from "@/components/NavBar";
 import { Footer } from "@/components/Footer";
